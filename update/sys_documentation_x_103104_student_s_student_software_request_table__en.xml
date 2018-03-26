@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Student Software Request Table" language="en" table="x_103104_student_s_student_software_request_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Student Software Request Table</label>
+            <language>en</language>
+            <name>x_103104_student_s_student_software_request_table</name>
+            <plural>Student Software Request Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-12 13:10:05</sys_created_on>
+            <sys_id>2a5d5fe1db701300bfb3f08c0c9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Student Software Request Table</sys_name>
+            <sys_package display_value="Student Software Request" source="x_103104_student_s">c65d5f61db301300bfb3f08c0c9619b3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student Software Request">c65d5f61db301300bfb3f08c0c9619b3</sys_scope>
+            <sys_update_name>sys_documentation_x_103104_student_s_student_software_request_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-12 13:10:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

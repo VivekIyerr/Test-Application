@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Student Software Request Table" max_length="40" name="x_103104_student_s_student_software_request_table" type="collection">
+        <element label="ID Number" max_length="40" name="id_number" type="integer"/>
+        <element label="Software" max_length="40" name="software" type="string"/>
+        <element label="Student Name" max_length="32" name="student_name" reference="sys_user" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="student_name"/>
+        </index>
+    </element>
+</database>

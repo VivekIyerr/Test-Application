@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-12 13:10:04</sys_created_on>
+        <sys_id>525d5fe1db701300bfb3f08c0c9619a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_103104_student_s_student_software_request_table.x_103104_student_s.user</sys_name>
+        <sys_package display_value="Student Software Request" source="x_103104_student_s">c65d5f61db301300bfb3f08c0c9619b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student Software Request">c65d5f61db301300bfb3f08c0c9619b3</sys_scope>
+        <sys_security_acl display_value="x_103104_student_s_student_software_request_table">9e5d5fe1db701300bfb3f08c0c9619a0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_525d5fe1db701300bfb3f08c0c9619a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-12 13:10:04</sys_updated_on>
+        <sys_user_role display_value="x_103104_student_s.user" name="x_103104_student_s.user">c65d5fe1db701300bfb3f08c0c96196b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
